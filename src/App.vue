@@ -154,17 +154,11 @@ export default {
             this.editdata = student;
             console.log(this.editdata, 'editdata');
         },
-        // mounted() {
-        //     EventBus.$on("update-list", () => {
-        //         this.updatehome();
-        //     });
-        // },
+       
         created() {
             this.updatehome();
         },
-        // destroyed() {
-        //     EventBus.$off("update-list");
-        // },
+   
 
     },
 
