@@ -29,17 +29,18 @@
       "id": 8
     },
     {
-      "firstname": "janvi",
-      "lastname": "Sharma",
-      "course": "B.Sc(IT)",
+      "firstname": "Ami",
+      "lastname": "Bhavsar",
+      "course": "BCA",
       "gender": "Female",
       "hobbies": [
         "travelling",
-        "sports"
+        "sports",
+        "reading Books"
       ],
-      "phone": "7777777777",
-      "address": "Anand",
-      "email": "j@gmail.com",
+      "phone": "8888888888",
+      "address": "Surat",
+      "email": "a@gmail.com",
       "id": 9
     }
   ]
